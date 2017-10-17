@@ -1,0 +1,86 @@
+預設
+
+2 32568
+count: 2121577229
+
+3 12
+count: 715664091
+
+4 0
+count: 107
+
+5 0
+count: 0
+
+6 0
+count: 0
+
+7 0
+count: 0
+
+8 0
+count: 0
+
+9 0
+count: 0
+
+10 0
+count: 0
+
+-Wl,-stack,10240
+
+2 3896
+count: 30384909
+
+3 9
+count: 11164370
+
+4 0
+count: 107
+
+5 0
+count: 0
+
+6 0
+count: 0
+
+7 0
+count: 0
+
+8 0
+count: 0
+
+9 0
+count: 0
+
+10 0
+count: 0
+
+-Wl,-stack,1024000
+
+2 16184
+count: 523957005
+
+3 11
+count: 178875096
+
+4 0
+count: 107
+
+5 0
+count: 0
+
+6 0
+count: 0
+
+7 0
+count: 0
+
+8 0
+count: 0
+
+9 0
+count: 0
+
+10 0
+count: 0
